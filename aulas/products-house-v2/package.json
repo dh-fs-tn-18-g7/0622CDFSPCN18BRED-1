@@ -1,7 +1,7 @@
 {
   "name": "products-house-v2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Criar rotas:",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./src/server.js"
